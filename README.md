@@ -1,2 +1,2 @@
 # Yukki
-A school unblocker using Nfriedly's "Unblocker" API, express, and puppeteer.
+A school unblocker using Titanium Network's "Alloy" proxy.
